@@ -8,6 +8,6 @@ wm.gaps.outer.size: 3
 wm.gaps.smart: off
 gtk.theme_name: Yaru-dark
 gnome.terminal.use-transparent-background:	true
-gnome.wallpaper: /home/quypn/Pictures/Wallpapers/peakpx.jpg
+!gnome.wallpaper: /home/quypn/Pictures/Wallpapers/peakpx.jpg
 wm.window.border.size: 2
 wm.hide.edge.borders: smart_no_gaps
