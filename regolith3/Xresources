@@ -1,0 +1,13 @@
+wm.mod: Mod4
+wm.alt: Mod1
+!regolith.look.path: /usr/share/regolith-look/default
+regolith.look.path: /usr/share/regolith-look/catppuccin
+wm.bar.position:	top
+wm.gaps.inner.size: 5
+wm.gaps.outer.size: 3
+wm.gaps.smart: off
+gtk.theme_name: Yaru-dark
+gnome.terminal.use-transparent-background:	true
+gnome.wallpaper: /home/quypn/Pictures/Wallpapers/peakpx.jpg
+wm.window.border.size: 2
+wm.hide.edge.borders: smart_no_gaps
